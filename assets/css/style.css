@@ -1,0 +1,31 @@
+body {
+    padding:30px;
+    background: url('../images/background.jpg')
+}
+.jumbotron {
+	margin-top:30px;
+    text-align: center;
+    background-color: rgb(1, 167, 131)
+}
+
+element.style {
+    margin-top: 30px;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+li {
+    margin-left: 1em;
+}
+p:hover {
+	background-color: rgb(26, 175, 163);
+}
+#title {
+    font-family: 'Fredoka One', cursive;
+}
+#answers {
+    font-family: 'Didact Gothic', sans-serif;
+}
